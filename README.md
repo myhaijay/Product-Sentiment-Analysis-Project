@@ -5,8 +5,7 @@
 Every business is ultimately motivated by profit maximization. And this is a direct function of the feedback that she gets from those using her product - whether its a tangible product or some service.
 Consiquently, understanding these feedbacks from her customers and using that to make informed decision is paramount. 
 
-Using Amazon as a case study, this project explores many many thousands of product reviews from customers using Natural Language Processing, to get the overall sentiments(emotions) 
-of the users concerning the products, using Machine Learning.
+Using Amazon as a case study, this project explores many many thousands of product reviews from customers using Natural Language Processing, to analyse and get the overall sentiments(emotions) of the users concerning the products, using Machine Learning.
 
 
 #### Steps in Analytic Approach
