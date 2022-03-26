@@ -1,6 +1,6 @@
 
 
-
+![](https://github.com/myhaijay/Product-Sentiment-Analysis-Project/blob/main/Images/product_review.jpg)
 #### Problem Statement/ Business Objective
 Every business is ultimately motivated by profit maximization. And this is a direct function of the feedback that she gets from those using her product - whether its a tangible product or some service.
 Consiquently, understanding these feedbacks from her customers and using that to make informed decision is paramount. 
