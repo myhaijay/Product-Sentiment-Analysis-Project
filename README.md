@@ -44,7 +44,7 @@ MySQL to interact with the database to store the predictions of overall product 
 
 
 
-## Library Used
+## Libraries Used
   * NLTK - https://www.nltk.org/
   * Pandas - https://pandas.pydata.org/
   * Regex - https://regexr.com/
