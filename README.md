@@ -21,7 +21,7 @@ Using Amazon as a case study, this project explores many many thousands of produ
 
 
 In this project I worked with Python to carry out all the processes of Maching Learning in NLP and build a model,
-MySQL to interact with the database to store the predictions of overall product sentiments and I also used Streamlit for User Interaction.
+MySQL to interact with the database to store the predictions of overall product sentiments and I also used Streamlit for to create User Interface for better interaction.
 
 ## File Structure
 * "data_files" folder contains:
